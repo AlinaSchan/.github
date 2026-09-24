@@ -5,5 +5,5 @@ own: [code of conduct](CODE_OF_CONDUCT.md), [contributing](CONTRIBUTING.md),
 [security policy](SECURITY.md), [support](SUPPORT.md), issue and pull request templates.
 
 nothing here is a project. if you are looking for the scripts, start at
-[onchain-notes](https://github.com/alinaschanz/onchain-notes) or the
-[profile](https://github.com/alinaschanz).
+[onchain-notes](https://github.com/AlinaSchan/onchain-notes) or the
+[profile](https://github.com/AlinaSchan).
